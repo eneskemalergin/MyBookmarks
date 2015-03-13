@@ -6,7 +6,7 @@ List of bookmarks that I am using for knowledge
 *  Learning Python Source
 	- [Learn Pyton the Hardway](http://learnpythonthehardway.org/book)
 	- [Lynda Playlist for learning Python](http://www.lynda.com/SharedPlaylist/54da95fb5fe644af9267e9a404541e18?utm_medium=viral&utm_source=slideshare&utm_campaign=top-programming-languages)
-	- [Tutorialspoint Reference](http://www.tutorialspoint.com/python/index.html)
+	- [Tutorialspoint Reference](http://www.tutorialspoint.com/python/index.htm)
 	- [Video Tutorial by John Philip Jones](https://www.youtube.com/playlist?list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976)
 	- [Python Central Guides](http://www.pythoncentral.io)
 	- [Python for Beginners](http://www.pythonforbeginners.com)
