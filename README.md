@@ -21,5 +21,7 @@ List of bookmarks that I am using for knowledge
 	- [How to Tango with Django](http://www.tangowithdjango.com/book)
 * [SciPy 2015](http://scipy2015.scipy.org/ehome/index.php?eventid=115969&)
 
-## R Folder
-* []
+## Miscellaneous
+* [Machine Learning Video Sources](http://www.mln.io/resources/videos)
+* [Machine Learning and Molecular Biology](http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html)
+* [Periodic Table Reference for Machine Learning](http://www.mln.io/resources/periodic-table/)
