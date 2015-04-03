@@ -201,3 +201,12 @@ List of bookmarks that I am using for knowledge
 #### Twitter Projects
 * [Tweepy Case Study](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
 * [Tweet - Python - Analyze](http://geduldig.github.io/)
+
+#### Making REST-API
+* [Learn REST: A Tutorial](http://rest.elkstein.org)
+* [Django REST Framework](http://www.django-rest-framework.org)
+* [Full Stack Python - API Creation](http://www.fullstackpython.com/api-creation.html)
+* [Creating a RESTful Python API With Bottle](http://gotofritz.net/blog/weekly-challenge/restful-python-api-bottle/)
+* [Learn REST-API with Python](http://www.slideshare.net/larrycai/learn-rest-apiwithpython)
+* [XML Intro](http://www.w3schools.com/xml/xml_whatis.asp)
+* [How to get data from XML](http://wiki.pentaho.com/display/EAI/Get+Data+From+XML)
