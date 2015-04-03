@@ -19,9 +19,10 @@ List of bookmarks that I am using for knowledge
 	- [District Data Labs](http://districtdatalabs.silvrback.com)
 	- [Full Stack Python](http://www.fullstackpython.com) 
 	- [How to Tango with Django](http://www.tangowithdjango.com/book)
-* Python Library
+* Python Libraries
 	- [Numpy 100 Example](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 	- [Pandas 10 min](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+	- [Scikit-bio](http://scikit-bio.org)
 * [SciPy 2015](http://scipy2015.scipy.org/ehome/index.php?eventid=115969&)
 
 
