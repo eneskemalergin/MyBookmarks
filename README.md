@@ -21,8 +21,13 @@ List of bookmarks that I am using for knowledge
 	- [How to Tango with Django](http://www.tangowithdjango.com/book)
 * Python Libraries
 	- [Numpy 100 Example](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
+	- [Numpy](http://www.numpy.org)
 	- [Pandas 10 min](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+	- [Pandas](http://pandas.pydata.org)
 	- [Scikit-bio](http://scikit-bio.org)
+	- [Requests](http://docs.python-requests.org/en/latest/)
+	- [SymPy](http://www.sympy.org/en/index.html)
+	- 
 * [SciPy 2015](http://scipy2015.scipy.org/ehome/index.php?eventid=115969&)
 
 
