@@ -27,7 +27,6 @@ List of bookmarks that I am using for knowledge
 	- [Scikit-bio](http://scikit-bio.org)
 	- [Requests](http://docs.python-requests.org/en/latest/)
 	- [SymPy](http://www.sympy.org/en/index.html)
-	- 
 * [SciPy 2015](http://scipy2015.scipy.org/ehome/index.php?eventid=115969&)
 
 
