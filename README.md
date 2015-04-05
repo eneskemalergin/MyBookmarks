@@ -62,8 +62,6 @@ List of bookmarks that I am using for knowledge
 * [ProjectEuler](https://projecteuler.net/)
 * [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Nmap](https://highon.coffee/docs/nmap/)
-* [Run Keeper](https://support.runkeeper.com/hc/en-us/articles/201109886-How-to-Export-your-RunKeeper-data)
-* [Holy Quran Translation](http://mquran.org/content/section/2/4)
 * [Awesome](http://xiaodanzhang.com/)
 * [Prediction.io](http://prediction.io/)
 * [databits.io](http://databits.io/) - Data Visualization tools
