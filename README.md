@@ -13,6 +13,7 @@ List of bookmarks that I am using for knowledge
 	- [Open Tech School](http://python.opentechschool.org)	
 
 * Python Blogs
+	- [Python School](http://www.pythonschool.net)
 	- [Bogotobogo](http://www.bogotobogo.com/python/pytut.php)
 	- [Mouse vs Python](http://www.blog.pythonlibrary.org)
 	- [A Byte of Python](http://www.swaroopch.com/notes/python)
