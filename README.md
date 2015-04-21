@@ -198,6 +198,7 @@ List of bookmarks that I am using for knowledge
 * [DeepLearning Presentation](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
 * [7commandlinetoolsfor#DataScience](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 * [Koray-Kavukcoglu](http://koray.kavukcuoglu.org/code.html)
+* [Yhathq](http://blog.yhathq.com)
 
 
 ### For Special Projects
