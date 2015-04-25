@@ -3,6 +3,7 @@
 List of bookmarks that I am using for knowledge
 
 ## Python Folder
+
 *  Learning Python Source
 	- [Learn Pyton the Hardway](http://learnpythonthehardway.org/book)
 	- [Lynda Playlist for learning Python](http://www.lynda.com/SharedPlaylist/54da95fb5fe644af9267e9a404541e18?utm_medium=viral&utm_source=slideshare&utm_campaign=top-programming-languages)
