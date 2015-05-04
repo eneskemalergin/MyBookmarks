@@ -21,6 +21,7 @@ List of bookmarks that I am using for knowledge
 	- [District Data Labs](http://districtdatalabs.silvrback.com)
 	- [Full Stack Python](http://www.fullstackpython.com) 
 	- [How to Tango with Django](http://www.tangowithdjango.com/book)
+ 
 * Python Libraries
 	- [Numpy 100 Example](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 	- [Numpy](http://www.numpy.org)
