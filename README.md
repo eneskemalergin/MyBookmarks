@@ -4,7 +4,10 @@ List of bookmarks that I am using for knowledge
 
 ## Python Folder
 
-*  Learning Python Source
+* Web Development with Python
+	- [SQL, Python, and Flask: Web development](https://www.youtube.com/watch?v=C5a4V1a_r3Q)
+
+* Learning Python Source
 	- [Learn Pyton the Hardway](http://learnpythonthehardway.org/book)
 	- [Lynda Playlist for learning Python](http://www.lynda.com/SharedPlaylist/54da95fb5fe644af9267e9a404541e18?utm_medium=viral&utm_source=slideshare&utm_campaign=top-programming-languages)
 	- [Tutorialspoint Reference](http://www.tutorialspoint.com/python/index.htm)
