@@ -35,6 +35,10 @@ List of bookmarks that I am using for knowledge
 	- [SymPy](http://www.sympy.org/en/index.html)
 * [SciPy 2015](http://scipy2015.scipy.org/ehome/index.php?eventid=115969&)
 
+## Web Development Related
+* [FreeCodeCamp](http://www.freecodecamp.com/)
+* [Codermania](http://www.codermania.com/)
+* [Bento](https://www.bento.io/)
 
 ## Machine Learning
 * [Machine Learning Video Sources](http://www.mln.io/resources/videos)
