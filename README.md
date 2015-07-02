@@ -39,6 +39,7 @@ List of bookmarks that I am using for knowledge
 * [FreeCodeCamp](http://www.freecodecamp.com/)
 * [Codermania](http://www.codermania.com/)
 * [Bento](https://www.bento.io/)
+* [JavaScript-Garden](bonsaiden.github.io/JavaScript-Garden)
 
 ## Machine Learning
 * [Machine Learning Video Sources](http://www.mln.io/resources/videos)
