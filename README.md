@@ -209,6 +209,8 @@ List of bookmarks that I am using for knowledge
 * [7commandlinetoolsfor#DataScience](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 * [Koray-Kavukcoglu](http://koray.kavukcuoglu.org/code.html)
 * [Yhathq](http://blog.yhathq.com)
+* [Hacksparrow](http://www.hacksparrow.com/)
+* [JS Blog Adrian](http://adrianmejia.com/)
 
 
 ### For Special Projects
