@@ -35,6 +35,13 @@ List of bookmarks that I am using for knowledge
 	- [SymPy](http://www.sympy.org/en/index.html)
 * [SciPy 2015](http://scipy2015.scipy.org/ehome/index.php?eventid=115969&)
 
+## MongoDB 
+* [Getting Started with MongoDB](https://code.tutsplus.com/tutorials/getting-started-with-mongodb-part-1--net-22879)
+* [MongoDB for Developers Course](https://university.mongodb.com/courses/M101P/about)
+* [MongoDB University](https://university.mongodb.com/)
+* [W3Resource MongoDB](http://www.w3resource.com/mongodb/introduction-mongodb.php)
+
+
 ## Web Development Related
 * [FreeCodeCamp](http://www.freecodecamp.com/)
 * [Codermania](http://www.codermania.com/)
