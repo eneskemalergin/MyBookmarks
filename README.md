@@ -218,7 +218,10 @@ List of bookmarks that I am using for knowledge
 * [Yhathq](http://blog.yhathq.com)
 * [Hacksparrow](http://www.hacksparrow.com/)
 * [JS Blog Adrian](http://adrianmejia.com/)
-
+* [Saylor Academy](https://learn.saylor.org)
+* [Trello](https://trello.com)
+* [Git/Github Presentation](https://dbrgn.ch/slides/20130207_getting_git/#/)
+* [Foundation of Computational and Systems Biology](http://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/index.htm)
 
 ### For Special Projects
 #### Twitter Projects
