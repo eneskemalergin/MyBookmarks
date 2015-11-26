@@ -15,6 +15,7 @@ List of bookmarks that I am using for knowledge
 	- [Python Central Guides](http://www.pythoncentral.io)
 	- [Python for Beginners](http://www.pythonforbeginners.com)
 	- [Open Tech School](http://python.opentechschool.org)	
+	- [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 
 * Python Blogs
 	- [Python School](http://www.pythonschool.net)
@@ -61,6 +62,7 @@ List of bookmarks that I am using for knowledge
 * [Scientific Computing Projects](http://jrjohansson.github.io/)
 * [ML | DM - Lecture Notes](http://www.cs.ubc.ca/~nando/340-2012/)
 * [Algorithms-for-Big-Data-Management](https://www.cs.duke.edu/courses/spring13/compsci590.2/)
+* [Visualizing Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 ## Deep Learning
 * [What is Deep Learning?](http://scyfer.nl/what-is-deep-learning/)
@@ -68,6 +70,8 @@ List of bookmarks that I am using for knowledge
 * [Stanford NN Tutorial Series](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
 * [Deep Learning tutorial](http://deeplearning.net/tutorial/)
 * [Deep Learning Man](http://www.socher.org/) - Tutorial and Publications in it
+* [Sander Dielman Blog](http://benanne.github.io/)
+* 
 
 ## Torch - Scientific Calculation
 * [Torch Tutorial(Loading data)](http://fastml.com/loading-data-in-torch-is-a-mess/)
