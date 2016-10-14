@@ -71,7 +71,7 @@ List of bookmarks that I am using for knowledge
 * [Deep Learning tutorial](http://deeplearning.net/tutorial/)
 * [Deep Learning Man](http://www.socher.org/) - Tutorial and Publications in it
 * [Sander Dielman Blog](http://benanne.github.io/)
-* 
+* [Camron's Blog](http://camron.xyz/)
 
 ## Torch - Scientific Calculation
 * [Torch Tutorial(Loading data)](http://fastml.com/loading-data-in-torch-is-a-mess/)
